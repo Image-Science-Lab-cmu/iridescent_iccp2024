@@ -1,6 +1,6 @@
-# Scanning Iridescent Reflectance
-Michael De Zeeuw and Aswin C. Sankaranarayanan
-IEEE ICCP 2024 
+# Scanning Iridescent Reflectance 
+Michael De Zeeuw and Aswin C. Sankaranarayanan<br>
+IEEE ICCP 2024 <br>
 [Paper link]
 
 # Code and data
